@@ -9,6 +9,7 @@ This repo contains resources for the live training GCP Associate Cloud Engineer 
 - [GCP Sketchnotes](https://thecloudgirl.dev/sketchnote.html)
 
 ## Demos
+- [Creating a resource hierarchy](https://youtu.be/FOqMRLrnXNo)
 - [Creating and managing IAM policies (no audio)](https://www.youtube.com/watch?v=Y-XjQ4Rc5bc)
 - [Creating an instance template, managed instance group, and internal load balancer (no audio)](https://www.youtube.com/watch?v=A8I4qdfLkrs)
 - [Configuring VPC, Compute Engine VMs, and Cloud Storage](https://www.youtube.com/watch?v=2iQ4pTY0sZc)
