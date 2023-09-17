@@ -13,6 +13,7 @@ This repo contains resources for the live training GCP Associate Cloud Engineer 
 - [Creating and managing IAM policies (no audio)](https://www.youtube.com/watch?v=Y-XjQ4Rc5bc)
 - [Creating an instance template, managed instance group, and internal load balancer (no audio)](https://www.youtube.com/watch?v=A8I4qdfLkrs)
 - [Configuring VPC, Compute Engine VMs, and Cloud Storage](https://www.youtube.com/watch?v=2iQ4pTY0sZc)
+- [Working with GKE - Orchestrating the Cloud with Kubernetes Lab Walkthrough](https://www.youtube.com/watch?v=fXYH6RukHV4)
 
 ## Recommended Labs
 The following labs are from Google-owned CloudSkillsBoost (formerly Qwiklabs) and require a paid account (you can sign up for a free trial)
