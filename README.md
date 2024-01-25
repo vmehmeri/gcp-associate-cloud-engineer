@@ -11,9 +11,12 @@ This repo contains resources for the live training GCP Associate Cloud Engineer 
 ## Demos
 - [Creating a resource hierarchy](https://youtu.be/FOqMRLrnXNo)
 - [Creating and managing IAM policies (no audio)](https://www.youtube.com/watch?v=Y-XjQ4Rc5bc)
+- [Configuring Security Controls (Firewall, IAM, IAP, Org Policy, VPC Service Controls)](https://www.youtube.com/watch?v=t1_PdRPqfAo)*
 - [Creating an instance template, managed instance group, and internal load balancer (no audio)](https://www.youtube.com/watch?v=A8I4qdfLkrs)
 - [Configuring VPC, Compute Engine VMs, and Cloud Storage](https://www.youtube.com/watch?v=2iQ4pTY0sZc)
 - [Working with GKE - Orchestrating the Cloud with Kubernetes Lab Walkthrough](https://www.youtube.com/watch?v=fXYH6RukHV4)
+
+*You can ignore the VPC Service Controls portion of the demo as that is not listed as a topic in the ACE exam
 
 ## Recommended Labs
 The following labs are from Google-owned CloudSkillsBoost (formerly Qwiklabs) and require a paid account (you can sign up for a free trial)
